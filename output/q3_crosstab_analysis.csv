@@ -1,0 +1,17 @@
+region,encounter_type,Hospital,Specialty Center,Urgent Care,totals
+North,Emergency,0,0,109,109
+North,Inpatient,0,0,90,90
+North,Lab,0,0,90,90
+North,Office Visit,0,0,112,112
+North,Outpatient Procedure,0,0,109,109
+South,Emergency,127,236,190,553
+South,Inpatient,95,210,190,495
+South,Lab,100,211,229,540
+South,Office Visit,85,175,178,438
+South,Outpatient Procedure,102,194,183,479
+West,Emergency,0,182,195,377
+West,Inpatient,0,191,201,392
+West,Lab,0,180,228,408
+West,Office Visit,0,200,200,400
+West,Outpatient Procedure,0,193,215,408
+totals,,509,1972,2519,5000
