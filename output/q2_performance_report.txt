@@ -1,21 +1,22 @@
-,facility_name,provider_id,provider_name,years_experience,specialty
-486,Cardiology Specialty Center,PR0337,Riley Martinez,14,Endocrinology
-837,Cardiology Specialty Center,PR0093,Avery Smith,16,Pediatrics
-752,City General Hospital,PR0173,Riley Davis,21,Dermatology
-2342,City General Hospital,PR0079,Taylor Davis,25,Psychiatry
-220,Community Health Clinic,PR0106,Avery Jones,7,Neurology
-383,Community Health Clinic,PR0236,Drew Jones,34,Endocrinology
-76,Emergency Medical Center,PR0367,Sam Jones,28,Oncology
-832,Emergency Medical Center,PR0216,Taylor Anderson,33,Orthopedics
-165,Northside Urgent Care,PR0416,Avery Smith,24,Pediatrics
-397,Northside Urgent Care,PR0143,Taylor Rodriguez,17,Oncology
-61,Oncology Treatment Center,PR0156,Morgan Miller,34,Psychiatry
-408,Oncology Treatment Center,PR0407,Jordan Johnson,7,Dermatology
-517,Pediatric Care Center,PR0031,Cameron Anderson,18,Dermatology
-948,Pediatric Care Center,PR0062,Casey Jones,21,General Practice
-856,Primary Care Clinic,PR0286,Sam Williams,15,Radiology
-1145,Primary Care Clinic,PR0228,Morgan Davis,9,Oncology
-125,Regional Medical Center,PR0495,Morgan Williams,2,Emergency Medicine
-268,Regional Medical Center,PR0029,Jordan Jones,30,Orthopedics
-1746,Surgical Specialty Center,PR0474,Drew Rodriguez,27,Primary Care
-2017,Surgical Specialty Center,PR0469,Cameron Johnson,39,Psychiatry
+Assignment 8 - Question 2
+facility_name,provider_id,provider_name,years_experience,specialty
+Cardiology Specialty Center,PR0337,Riley Martinez,14,Endocrinology
+Cardiology Specialty Center,PR0093,Avery Smith,16,Pediatrics
+City General Hospital,PR0173,Riley Davis,21,Dermatology
+City General Hospital,PR0079,Taylor Davis,25,Psychiatry
+Community Health Clinic,PR0106,Avery Jones,7,Neurology
+Community Health Clinic,PR0236,Drew Jones,34,Endocrinology
+Emergency Medical Center,PR0367,Sam Jones,28,Oncology
+Emergency Medical Center,PR0216,Taylor Anderson,33,Orthopedics
+Northside Urgent Care,PR0416,Avery Smith,24,Pediatrics
+Northside Urgent Care,PR0143,Taylor Rodriguez,17,Oncology
+Oncology Treatment Center,PR0156,Morgan Miller,34,Psychiatry
+Oncology Treatment Center,PR0407,Jordan Johnson,7,Dermatology
+Pediatric Care Center,PR0031,Cameron Anderson,18,Dermatology
+Pediatric Care Center,PR0062,Casey Jones,21,General Practice
+Primary Care Clinic,PR0286,Sam Williams,15,Radiology
+Primary Care Clinic,PR0228,Morgan Davis,9,Oncology
+Regional Medical Center,PR0495,Morgan Williams,2,Emergency Medicine
+Regional Medical Center,PR0029,Jordan Jones,30,Orthopedics
+Surgical Specialty Center,PR0474,Drew Rodriguez,27,Primary Care
+Surgical Specialty Center,PR0469,Cameron Johnson,39,Psychiatry
